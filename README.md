@@ -1,3 +1,1 @@
-# BlogWebApplication
-# Blog-Web
 # Blog
